@@ -47,7 +47,7 @@ export default function TopServices() {
             ))}
           </div>
           <div className="btm-text">
-            <span className="text">Explore Boundless Educational Horizons with MedicosMindz</span>
+            <span className="text">Explore Boundless Educational Horizons with MbbsTimes</span>
           </div>
         </div>
       </div>

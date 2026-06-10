@@ -28,7 +28,7 @@ export default function ApplyForm() {
           <div className="space-y-5">
             {[
               { icon: '📞', title: 'Call Us', info: '+91 9773877349 / +91 8828377456' },
-              { icon: '📧', title: 'Email Us', info: 'medicosmindz@gmail.com' },
+              { icon: '📧', title: 'Email Us', info: 'info@mbbstimes.com' },
               { icon: '📍', title: 'Visit Us', info: 'Hansalya Building, Flat No.15, 1st Floor, Barakhamba Road, New Delhi 110001' },
               { icon: '🕒', title: 'Office Hours', info: 'Mon–Sat: 9:00 AM – 7:00 PM' },
             ].map(({ icon, title, info }) => (
@@ -49,7 +49,7 @@ export default function ApplyForm() {
             <div className="text-center py-10">
               <CheckCircle size={64} className="text-green-500 mx-auto mb-4" />
               <h3 className="text-2xl font-bold text-navy mb-2">Application Submitted!</h3>
-              <p className="text-gray-500">Our counselors will contact you within 24 hours. Thank you for choosing MedicosMindz!</p>
+              <p className="text-gray-500">Our counselors will contact you within 24 hours. Thank you for choosing MbbsTimes!</p>
               <button
                 onClick={() => setSubmitted(false)}
                 className="mt-6 bg-primary text-white px-8 py-2 rounded-full text-sm font-semibold hover:bg-primary-dark transition-colors"
@@ -103,7 +103,7 @@ export default function ApplyForm() {
               <button type="submit" className="w-full bg-primary text-white font-bold py-3 rounded-xl hover:bg-primary-dark transition-colors flex items-center justify-center gap-2 shadow">
                 <Send size={18} /> Submit Application
               </button>
-              <p className="text-xs text-center text-gray-400">By submitting, you agree to be contacted by MedicosMindz. We respect your privacy.</p>
+              <p className="text-xs text-center text-gray-400">By submitting, you agree to be contacted by MbbsTimes. We respect your privacy.</p>
             </form>
           )}
         </div>

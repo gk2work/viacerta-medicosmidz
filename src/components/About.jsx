@@ -43,14 +43,14 @@ export default function About() {
           {/* Right — text */}
           <div className="about-info">
             <h6>ABOUT US</h6>
-            <h5>MEDICOSMINDZ</h5>
+            <h5>MBBSTIMES</h5>
             <h6 className="tagline">
               <span className="cr-orange1">— </span>
               "By Doctor for the future Doctors"
             </h6>
             <h2>WE ARE THE WORLD'S LARGEST MEDICAL UNIVERSITY CATALOG.</h2>
             <p className="wow fadeInUp" data-delay="0.2">
-              MEDICOS MINDZ is a unique venture started by doctors determined to light a path for the next
+              MBBS TIMES is a unique venture started by doctors determined to light a path for the next
               generation of doctors. For over a decade, a team of exceptional doctors have dedicated their
               time to change the dreams of medical aspirants into a reality. We provide consultation and serve
               as a gateway for admission for students seeking to pursue their MBBS abroad.

@@ -5,7 +5,7 @@ const BASE = 'https://medicosmindz.com';
 
 const faqs = [
   {
-    q: 'What can Medicos Mindz do for you?',
+    q: 'What can MbbsTimes do for you?',
     a: 'We provide complete end-to-end support—from selecting the right university to securing your admission, visa processing, and even post-arrival guidance. Our expert team ensures your journey to becoming a doctor is smooth, transparent, and stress-free.',
   },
   {

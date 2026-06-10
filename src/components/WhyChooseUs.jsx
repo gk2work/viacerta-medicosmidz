@@ -15,7 +15,7 @@ export default function WhyChooseUs() {
       <div className="max-w-7xl mx-auto px-4">
         <div className="text-center mb-14">
           <span className="text-yellow-300 text-sm font-semibold uppercase tracking-widest">Our Advantages</span>
-          <h2 className="text-3xl md:text-4xl font-bold mt-3">Why Choose MedicosMindz?</h2>
+          <h2 className="text-3xl md:text-4xl font-bold mt-3">Why Choose MbbsTimes?</h2>
           <p className="text-white/70 mt-4 max-w-xl mx-auto">
             We're not just a consultancy — we're your long-term partner in building a medical career.
           </p>

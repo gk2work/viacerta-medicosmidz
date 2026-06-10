@@ -1,4 +1,5 @@
 import { useState } from 'react';
+import Logo from './Logo';
 
 const BASE = 'https://medicosmindz.com';
 
@@ -43,7 +44,7 @@ export default function Navbar({ onApply }) {
       <nav className="tc-navbar">
         {/* Logo */}
         <a href="#home" className="nav-logo">
-          <img src={`${BASE}/frontend/assets/img/logo/medicos_logo.png`} alt="MedicosMindz Logo" />
+          <Logo />
         </a>
 
         {/* Desktop links */}

@@ -20,7 +20,7 @@ export default function Hero({ onApply }) {
               'I Am an MBBS!'
             </h1>
             <p className="hero-text">
-              Discover and connect with top universities worldwide. MedicosMindz is
+              Discover and connect with top universities worldwide. MbbsTimes is
               your trusted partner in navigating the path to higher education.
             </p>
             <a href="#about" className="butn bg-ln-orange1" style={{ marginTop: 32 }}>
@@ -33,7 +33,7 @@ export default function Hero({ onApply }) {
             <div className="hero-img-wrap">
               <img
                 src={`${BASE}/universities/banner.webp`}
-                alt="MedicosMindz Banner"
+                alt="MbbsTimes Banner"
                 className="hero-img"
               />
               {/* Decorative rotating circle */}
@@ -50,7 +50,7 @@ export default function Hero({ onApply }) {
               </div>
               <div>
                 <small>Contact Mail</small>
-                <a href="mailto:medicosmindz@gmail.com" className="contact-email">medicosmindz@gmail.com</a>
+                <a href="mailto:info@mbbstimes.com" className="contact-email">info@mbbstimes.com</a>
               </div>
             </div>
           </div>

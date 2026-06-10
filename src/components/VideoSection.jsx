@@ -54,7 +54,7 @@ export default function VideoSection() {
             <div style={{ paddingBottom: '56.25%', position: 'relative' }}>
               <iframe
                 src={YT_URL + '&autoplay=1'}
-                title="MedicosMindz Video"
+                title="MbbsTimes Video"
                 style={{ position: 'absolute', inset: 0, width: '100%', height: '100%', border: 'none', borderRadius: 12 }}
                 allow="autoplay; encrypted-media"
                 allowFullScreen
