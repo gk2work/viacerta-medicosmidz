@@ -843,23 +843,6 @@ p { line-height: 1.7; }
   z-index: 0;
   pointer-events: none;
 }
-.tc-footer .footer-center-ring {
-  position: absolute;
-  bottom: 86px;
-  left: 50%;
-  transform: translateX(-50%);
-  width: 32px; height: 32px;
-  border: 1.5px solid rgba(255,255,255,0.35);
-  border-radius: 50%;
-  display: flex; align-items: center; justify-content: center;
-  z-index: 0;
-  pointer-events: none;
-}
-.tc-footer .footer-center-dot {
-  width: 8px; height: 8px;
-  border-radius: 50%;
-  background: #68B687;
-}
 @keyframes footerTwinkle {
   0%, 100% { opacity: 0.4; transform: scale(0.9); }
   50% { opacity: 1; transform: scale(1.15); }

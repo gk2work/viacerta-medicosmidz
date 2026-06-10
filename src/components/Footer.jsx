@@ -59,7 +59,6 @@ export default function Footer() {
       <div className="footer-blob-leaf-dot" />
       <div className="footer-blob-bottom" />
       <div className="footer-blob-bottom-accent" />
-      <div className="footer-center-ring"><span className="footer-center-dot" /></div>
 
       <div className="footer-inner">
         <div style={{ display: 'grid', gridTemplateColumns: '1.4fr 1fr 1fr 1.4fr', gap: 48, maxWidth: 1320, margin: '0 auto' }}
